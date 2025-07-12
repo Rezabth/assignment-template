@@ -227,3 +227,35 @@ padding-top: 0px;
     border-radius: 2px;
     box-shadow: 0px 2px 2px 0px rgba(254, 252, 252, 0.578) ;
 }
+
+/*footer class*/
+.logo{
+margin: 90px 454px 103px 471px;
+border: 15px solid green;
+}
+
+.logo-title{
+font-weight: 800;
+color:#4E47FF;
+text-align: center;
+margin-bottom: 0px;
+
+}
+
+.logo-description{
+padding-top: 0px;
+}
+.link{
+justify-content: left;
+}
+
+/*main style*/
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/*hover*/
+a:hover {
+  background-color: yellow;
+  font-size: 18px;
+}
